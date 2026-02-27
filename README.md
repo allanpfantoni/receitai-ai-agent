@@ -1,5 +1,4 @@
 # ReceitAI — Agente de Inteligência Artificial
-![ReceitAI Preview](receitai-preview.png)
 
 Projeto acadêmico desenvolvido no **1º período de Engenharia da Computação** como primeiro contato prático com Inteligência Artificial.
 
