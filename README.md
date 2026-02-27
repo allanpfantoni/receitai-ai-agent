@@ -2,6 +2,7 @@
 
 Projeto acadêmico desenvolvido no **1º período de Engenharia da Computação** como primeiro contato prático com Inteligência Artificial.
 
+![ReceitAI Preview](receitai-preview.png.png)
 ## 📌 Sobre o projeto
 
 O ReceitAI é um agente de IA configurado para sugerir receitas a partir dos ingredientes informados pelo usuário.  
